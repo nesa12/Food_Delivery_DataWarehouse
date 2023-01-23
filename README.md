@@ -5,4 +5,4 @@ https://www.kaggle.com/datasets/nosbielcs/brazilian-delivery-center?select=hubs.
 # ER Diagram
 ![ER](https://user-images.githubusercontent.com/87229466/213368782-16720abe-6768-49cb-a570-4a5e436d78ff.png)
 
-**Refer the assignment report in Documents for more information.
+**Refer the assignment report in Document Folder for more information.
